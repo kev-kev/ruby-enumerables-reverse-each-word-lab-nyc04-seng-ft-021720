@@ -9,5 +9,7 @@ def reverse_each_word(str)
   
   # Solving with collect
   
+  arr = str.split
+  p arr
 end
 
