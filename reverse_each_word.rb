@@ -1,3 +1,4 @@
 def reverse_each_word(str)
-  str.to_a
+  string_arr = str.to_a
+  p string_arr
 end
